@@ -1,0 +1,7 @@
+Sounds
+  freesound.org
+    Soundtrack: Soft Wind by florianreichelt
+    "You win" screen: Pripeti prapeti proopeti - vocal by Duisterwho
+    Player hits an enemy: UI_POP_UP.mp3 by Marevnik
+  mixkit.co
+    Player Boosts: Fast small sweep transition by mixkit.co
